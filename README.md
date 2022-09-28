@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Watts8bits/Watts8bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+~~~json
+{
+  "name": "Jabes Eduardo",
+  "pronouns": "~(his/he)"
+  "age": "14y",
+  "city": "Tianguá",
+  "personal status": "studying, Job, developing",
+}
