@@ -1,6 +1,10 @@
 <h1 align="center">
-    <img src="./favicon/Moon.png" alt="Moon" height="130px"/>
+   <img src="./favicon/Scp-icon.svg" >
+   
+   SCP Foundation
 </h1>
 
-# Eclipse
-Eclipse será um timer para eclipses
+![License][PrLicense] ![Size][PrSize]
+
+[PrLicense]: 
+[PrSize]: 
