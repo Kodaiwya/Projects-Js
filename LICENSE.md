@@ -1,8 +1,8 @@
-# Projeto
+# Project
 
-O objetivo deste projeto é constatar as fases da lua. Cheia, Nova, Minguante, Crecente ...
+SCP Foundation 
 
-# Licensas 
+# License
 
 Este projeto pode ser contribuido.
 > Feito por Jabes Eduardo 
