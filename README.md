@@ -1,7 +1,7 @@
 <h1 align="center">
    <img src="./favicon/Scp-icon.svg" >
    
-   SCP Foundation
+   SCP Foundation : BR
 
    ![Size][PrSize]
 </h1>
@@ -10,6 +10,7 @@
 
 <p align="center">
 The SCP Foundation is a collaborative, documentary-style writing website that records the activities of the SCP Foundation, a fictitious organization responsible for the detection and containment of entities, places and objects that defy the laws of nature called "SCP".
- 
-**This repository is not official**
 </p>
+<strong>This repository is not official</strong>
+
+Site Oficial: [SCP Foundation](https://the-scp.foundation/)
