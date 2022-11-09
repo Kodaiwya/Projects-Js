@@ -13,6 +13,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Omni",
 
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "window.zoomLevel": -1
 }
