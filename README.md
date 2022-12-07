@@ -1,7 +1,13 @@
-<<<<<<< HEAD
-# Teste da Variola dos Macacos
+> by Kodai
 
-A variola dos macacos...
-=======
+# Best of me App
 
->>>>>>> 344050218c88d4004f62dac77169298e1231ec3d
+---
+
+### clone project
+
+`git clone 'https://github.com/Kodaiwya/vdm-js'`
+
+### run project
+
+`node app`
