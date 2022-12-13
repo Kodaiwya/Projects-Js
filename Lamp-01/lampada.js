@@ -1,9 +1,19 @@
-const turnOn = document.getElementById ( 'TurnOn' );
-const turnOff = document.getElementById ( 'TurnOff' );
-const lamp = document.getElementById ( 'lamp' );
+const turnOn = document.getElementById( 'turnOn' );
+const turnOff = document.getElementById( 'turnOff' );
+const lamp = document.getElementById( 'lamp' );
 
 function lampOn () {
-  lamp.assets = './assets/ligada.jpg';
+  lamp.src = './src/ligada.jpg';
 }
 
-turnOn.addEventListener ( 'click', lampOn );
+function lampOff () {
+  lamp.src = './src/desligada.jpg';
+}
+
+function lampBroken() {
+  lamp.src = './src/quebrada.jpg';
+}
+
+turnOn.addEventListener( 'click', lampOn );
+turnOff.addEventListener( 'click', lampOff );
+lampBroken.addEventListener( 'dblclick', lampBroken );
