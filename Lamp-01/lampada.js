@@ -23,6 +23,5 @@ function lampBroken() {
 }
 
 turnOn.addEventListener( 'click', lampOn );
-turnOn.addEventListener( 'dblclick', lampBroken )
 turnOff.addEventListener( 'click', lampOff );
 lamp.addEventListener( 'dblclick', lampBroken );
