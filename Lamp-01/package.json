@@ -2,7 +2,7 @@
   "name": "scp",
   "version": "1.0.0",
   "description": "Scp-Foundation",
-  "main": "index.js",
+  "main": "lampada.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
