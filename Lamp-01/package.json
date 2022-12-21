@@ -1,19 +1,19 @@
 {
-  "name": "scp",
+  "name": "Lamp",
   "version": "1.0.0",
-  "description": "Scp-Foundation",
+  "description": "Lamp",
   "main": "lampada.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Watts8bits/Eclipse.git"
+    "url": "git+https://github.com/Kodaiwya"
   },
   "author": "Jabes Eduardo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Watts8bits/Eclipse/issues"
+    "url": "https://github.com/Kodaiwya"
   },
-  "homepage": "https://github.com/Watts8bits/Eclipse#readme"
+  "homepage": "https://github.com/Kodaiwya"
 }
